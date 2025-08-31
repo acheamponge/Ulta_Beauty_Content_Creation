@@ -1,8 +1,5 @@
 streamlit
 openai
-newsapi
-smtplib
-email
 Pillow
 replicate
 json
