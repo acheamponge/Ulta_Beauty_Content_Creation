@@ -1,0 +1,17 @@
+streamlit
+openai
+newsapi
+smtplib
+email
+Pillow
+replicate
+json
+dotenv
+better_profanity
+
+
+
+
+
+
+
