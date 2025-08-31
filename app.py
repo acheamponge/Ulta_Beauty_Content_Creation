@@ -1,9 +1,4 @@
 import streamlit as st
-from openai import OpenAI
-from newsapi import NewsApiClient
-import smtplib
-from email.mime.text import MIMEText
-from langsmith import traceable
 import os
 import json
 import replicate
