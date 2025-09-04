@@ -1,4 +1,4 @@
-# Ulta Beauty Adobe Content AI Agent  
+# Ulta Beauty Content AI Agent  
 
 A **Streamlit-based AI application** for automating content generation and creative workflows at Ulta Beauty. This proof of concept integrates **AI-powered image generation (via Replicate’s Stable Diffusion XL), text personalization, profanity filtering, and dynamic resizing for multiple aspect ratios.**  
 
